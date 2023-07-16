@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TESLA-CLONE/static/css/main.884eefc5.css",
+    "main.js": "/TESLA-CLONE/static/js/main.0814466a.js",
+    "static/js/787.860837ff.chunk.js": "/TESLA-CLONE/static/js/787.860837ff.chunk.js",
+    "index.html": "/TESLA-CLONE/index.html",
+    "main.884eefc5.css.map": "/TESLA-CLONE/static/css/main.884eefc5.css.map",
+    "main.0814466a.js.map": "/TESLA-CLONE/static/js/main.0814466a.js.map",
+    "787.860837ff.chunk.js.map": "/TESLA-CLONE/static/js/787.860837ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.884eefc5.css",
+    "static/js/main.0814466a.js"
+  ]
+}
